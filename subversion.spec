@@ -1,11 +1,11 @@
 Summary:	Open source version control system
 Name:		subversion
-Version:	1.7.13
+Version:	1.7.14
 Release:	1
 License:	Apache/BSD Style
 Group:		Development/Version Control
 Source0:	http://www.apache.org/dist/subversion/%{name}-%{version}.tar.bz2
-# Source0-md5:	d18594ae98c6e4b2ff59d9ae724f1fa3
+# Source0-md5:	cfff541f079f3b4b30795e08ee7aafa7
 URL:		http://subversion.apache.org/
 BuildRequires:	apr-devel
 BuildRequires:	apr-util-devel
